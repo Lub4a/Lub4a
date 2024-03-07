@@ -5,7 +5,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![GITHAB](https://img.shields.io/badge/-gitHab-090909?style=for-the-badge&logo=gitHab)
+![GITHUB](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)
 ![GITLAB](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA)
