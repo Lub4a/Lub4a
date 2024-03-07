@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Liubov Kurij**!
 ##  I’m a *Front-end-developer $ Manual QA*  from Lviv.
-### Check my website: (https://lub4a.github.io/portfolio/)
+### Check my website: https://lub4a.github.io/portfolio/
 ###  Languages & Frameworks & Tools: html5 css3 sass javascript  git bash vscode figma
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
