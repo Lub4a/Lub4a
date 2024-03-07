@@ -17,7 +17,7 @@
 ![TRELLO](https://img.shields.io/badge/-TRELLO-090909?style=for-the-badge&logo=TRELLO)
 ![QASE](https://img.shields.io/badge/-QASE-090909?style=for-the-badge&logo=QASE)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub4a&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub4a&show_icons=true&theme=cobalt)
 ### ✉️ Mail me: lubovhimicka@gmail.com
 ### My credo:
 > Whatever happens for the better.<br>
