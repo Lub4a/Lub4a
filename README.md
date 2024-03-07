@@ -16,6 +16,8 @@
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=POSTMAN)
 ![TRELLO](https://img.shields.io/badge/-TRELLO-090909?style=for-the-badge&logo=TRELLO)
 ![QASE](https://img.shields.io/badge/-QASE-090909?style=for-the-badge&logo=QASE)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub4a)](https://github.com/anuraghazra/github-readme-stats)
 ### ✉️ Mail me: lubovhimicka@gmail.com
 ### My credo:
 > Whatever happens for the better.<br>
