@@ -22,7 +22,7 @@
 
 ### ✉️ Mail me: lubovhimicka@gmail.com
 ### My credo:
-> Whatever happens for the better.<br>
+> ## Whatever happens for the better.<br>
 #
-> Talk is cheap. Show me the code. <br>
->***Linus Torvalds***>
+> ## Talk is cheap. Show me the code. <br>
+>***Linus Torvalds***
