@@ -10,7 +10,6 @@
 ![GITLAB](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
-![SELENIUM](https://img.shields.io/badge/-SELENIUM-090909?style=for-the-badge&logo=SELENIUM)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA)
 ![MANTIS](https://img.shields.io/badge/-MANTIS-090909?style=for-the-badge&logo=MANTIS)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=POSTMAN)
